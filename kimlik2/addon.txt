@@ -1,0 +1,7 @@
+// Extracted with MulleDK19's GMAD Extractor
+"AddonInfo"
+{
+	"name" "Passport V2"
+	"author_name" "Unknown"
+	"info" "[IMG]http://i.imgur.com/1EwwORZ.png[/IMG]  1.The picture changes depending on the player model. 2.Shows your nickname, and the name of the server. I hope this passport will add a bit of RP on your server.  [h1]At the moment this is a beta version of the swep passport. If you have any ideas or changes. Write it in the comments.[/h1]  [h1]Update:[/h1] 14 May: Fix lua"
+}
